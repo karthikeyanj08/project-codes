@@ -1,0 +1,198 @@
+body{
+background-image: linear-gradient(rgb(222, 87, 87),PINK);
+    margin: 20px;
+  
+}
+#head-1>a{
+    color: honeydew;
+    font-weight: bold;
+    text-align: right;
+    font-style: italic;
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 40px;
+    position: relative;
+    bottom: 25px;
+}
+.kj{
+    font-weight: bold;
+    font-style: italic;
+    color: dodgerblue;
+    font-size: 60px;
+    position: relative;
+    top: 50px;
+}
+.jk{  
+    background-size: cover;
+    display: inline-flex;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    justify-content: center;
+    top: 25px;
+    border: 50px solid;
+    border-radius: 40px;
+    margin: 10px;
+    
+}
+.jk:hover{
+    transform: scale(1.3);
+    z-index: 1;
+}
+    
+    
+    
+
+#icecream{
+    gap: 80px;
+}
+
+
+.ju{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 30px;
+    
+    
+    
+    
+}
+
+.ju:hover{
+    display: flex;
+    height: 350px;
+    width: 300px;
+    
+
+}
+.text{
+    
+    color: rgb(225, 9, 9);
+    position: relative;
+    left: 80px;
+    background-image: linear-gradient(rgb(113, 113, 205),rgb(128, 219, 219));
+    position: relative;
+    top: 30px;
+    font-style: italic;
+    
+  
+}
+
+
+.text2{
+    display: flex;
+    height: 300px;
+    width: 250px;
+    background-image: linear-gradient(rgb(58, 58, 241),rgb(227, 11, 227));
+    position: relative;
+    top: 50px;
+    font-style: italic;
+}
+.text2:hover{
+    height: 400px;
+    width: 400px;
+    
+}
+
+.text3{
+    color: gold;
+    background-image: linear-gradient(rgb(63, 211, 63),rgb(59, 205, 205));
+    position: relative;
+    top: 50px;
+    font-style: italic;
+    
+}
+.text4{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 50px;
+    font-style: italic;
+}
+.text4:hover{
+    height: 400px;
+    width: 400px;
+}
+.text5{
+    color: gold;
+    background-image: linear-gradient(red,rgb(201, 117, 134));
+    position: relative;
+    top: 50px;
+    font-style: italic;
+}
+.order{
+    display: flex;
+    position: relative;
+    touch-action: pinch-zoom;
+    cursor: pointer;
+    top: 50px;
+}
+#rec{
+    color: chocolate;
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+.last{
+    position: relative;
+    top: 50px;
+display: inline-flex;
+ height: 300px;
+ width: 80px;
+ left: 100px;
+ margin: 30px;
+}
+.last1{
+    display: inline-flex;
+    height: 300px;
+    width: 150px; 
+    position: relative;
+    left: 500px;
+    top: 50px;
+    margin: 30px;
+
+
+}
+.last2{
+    display: inline-flex;
+    height: 350px;
+    width: 100px; 
+    position: relative; 
+    left: 550px;
+    top: 45px;
+    margin: 30px;
+
+}
+.overlay{
+    position: absolute;
+    height: 50px;
+    left: 100px;
+    display: flex;
+    flex-direction: column;
+
+}
+.last:hover{
+    transform: scale(1.5);
+    z-index: 1;
+}
+.last1:hover{
+    transform: scale(1.5);
+    z-index: 1;
+}
+.last2:hover{
+    transform: scale(1.5);
+    z-index: 1;
+    
+}
+.over1:hover{
+    color:rgb(227, 111, 131)
+    
+}
+.over2{
+    color: red;
+}
+
+    

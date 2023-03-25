@@ -1,0 +1,57 @@
+body{
+    margin: 20px;
+    background-image: linear-gradient(rgb(77, 220, 77),rgb(46, 234, 234));
+}
+#aj>a{
+    color: crimson;
+    font-weight: bold;
+    font-style: italic;
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 40px;
+}
+.jj{
+    top: 30px;
+    display: flex;
+    height: 500px;
+    width: 500px;
+    gap: 10px;
+    position: relative;
+    
+
+}
+.mk{
+    position: relative;
+    top: 30px;
+    text-align: justify;
+    color: aqua;
+    background-color: darkcyan;
+    font-weight: bolder;
+    font-size: 80px;
+    font-style: italic;
+}
+.sec{
+    font-size: 50px;
+    color: goldenrod;
+}
+footer{
+    background-color: gray;
+    margin: 20px;
+    padding: 20px;
+    color: aliceblue;
+    border-radius: 10px;
+
+}
+     .inst{
+
+   display: flex;
+    height: 100px;
+    width: 100px;
+}
+.face{
+    display: flex;
+    height: 100px;
+    width: 100px;
+}
+    
+    

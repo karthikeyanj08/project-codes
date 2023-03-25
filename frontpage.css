@@ -1,0 +1,44 @@
+body{
+    margin: 20px;
+    background-color: aqua;
+}
+header{
+    background-image: url('../IMAGES/ice.jpg');
+    background-size: cover;
+    position: relative;
+    display: flex;
+    height: 600px;
+    background-color: cyan;
+}
+#nav-ice{
+    display: flex;
+    align-items: flex-end;
+     margin-right: 50px;
+     
+     
+     
+}
+#nav-ice>a{
+    position: relative;
+    display: flex;
+
+    margin: 10px;
+    padding: 20px;
+    color: violet;
+    font-weight: bold;
+    border: 2px solid;
+    border-radius: 50px;
+    left: 500px;
+    
+    
+}
+.display-2{
+    color: blueviolet;
+}
+p{
+    background-color: rgb(9, 210, 217);
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+    font-size: medium;
+}
